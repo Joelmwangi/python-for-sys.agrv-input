@@ -25,6 +25,10 @@ how to run the scripts
 7. assign1_7 paste command below
  --python assign1_7.py 15
 
+
+Watch how to run it here remember to subscribe 
+https://youtu.be/u1I1guDgz4s
+
 B// When copying the commands, remember to include 'python' as well.
  Additionally, make sure that Python is installed on your system."
 
